@@ -1,10 +1,11 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Centrum Wiskunde \& Informatica 
+    detail: Centrum Wiskunde & Informatica 
     i18n: company_a 
   desc:
-    detail: This is where I am currently. I am member of the compuational imaging group, which was established in 2016. The group focus on novel algorithms and techniques for CT imaging, and we have a customized CT scanner to scan fancy stuffs! [For more info](https://www.cwi.nl/research/groups/computational-imaging)
+    detail: This is where you can find me. I am a member of the compuational imaging group, which was established in 2016. The group focus on novel algorithms and techniques for CT imaging, and we have a customized CT scanner to scan fancy stuffs!
+    link: [For more info](https://www.cwi.nl/research/groups/computational-imaging)
     i18n: company_a_desc
   date:
     detail: Oct. 2014
