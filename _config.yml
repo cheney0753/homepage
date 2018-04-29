@@ -2,10 +2,10 @@
 
 # Website settings
 title: Zhichao's homepage 
-description: Zhichao's blog,use Jekyll and github pages.
+description: Zhichao\'s blog,use Jekyll and github pages.
 keywords: Zhichao_Zhong,Jalpc,blog,Jekyll,github,gh-pages
-baseurl:  /zhichao # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://zhichaozhong.github.io/zhichao  # url should be 'http://<github_username>.github.io/homepage' as before
+baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://zhichaozhong.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /zhichao/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi, I'm currently doing a PhD study at Amsterdam, the Netherlands. I am keen for computer vision and machine learning. Love cooking, skiing and my family.  # Describe yourself.
+  desc: Hi, I'm currently a PhD student at Amsterdam, the Netherlands. I have been living in four countries (China, France, Germany and the Netherlands). I am keen for computer vision and machine learning. Love cooking, skiing and my family.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
