@@ -3,15 +3,14 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: AMTIC project 
   i18n: AMTIC 
-  gh_user: cheney0753 
-  repo: eTomo
-  img: /static/assets/img/landing/jekyll.png
+  url: unknown
+  # img: /static/assets/img/landing/jekyll.png
   desc: This is my PhD research project. We work with FEI to provide the coolest solution for 3D imaging.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: eTomo
+  i18n: etomo
+  gh_user: cheney0753
+  repo: eTomo
   img: /static/assets/img/landing/python.png
   desc: This project is other's project. I use another request to get repo's information.
 
