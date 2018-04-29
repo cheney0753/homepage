@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Centrum Wiskunde \& Informatica 
+    i18n: company_a 
   desc:
-    detail: I worked at Company A ...
+    detail: This is where I am currently. I am member of the compuational imaging group, which was established in 2016. The group focus on novel algorithms and techniques for CT imaging, and we have a customized CT scanner to scan fancy stuffs! [For more info](https://www.cwi.nl/research/groups/computational-imaging)
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Oct. 2014
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: PhD candidate
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
-    detail: Company B
-    i18n: company_b
-  desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
-  date:
-    detail: Jun. 2015
-    i18n: company_b_date
-  job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+#- name:
+#    detail: Company B
+#    i18n: company_b
+#  desc:
+#    detail: I worked at Company B ...
+#    i18n: company_b_desc
+#  date:
+#    detail: Jun. 2015
+#    i18n: company_b_date
+#  job:
+#    detail: Full Stack Developer
+#    i18n: company_b_job
+#  icon: fa-plus-square
