@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: I don't know yet! 
+    detail: Don't know yet! 
     i18n: company_b
   desc:
     detail: I am looking for a job starting from Nov. 2018. I am open for all opportunities. 
