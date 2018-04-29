@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: AMTIC project 
   i18n: AMTIC 
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: cheney0753 
+  repo: eTomo
   img: /static/assets/img/landing/jekyll.png
   desc: This is my PhD research project. We work with FEI to provide the coolest solution for 3D imaging.
 
